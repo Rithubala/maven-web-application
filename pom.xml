@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>balamaven-Releases Nexus Repository</name>
+	      <name>bala-Releases Repository</name>
 	      <url>http://13.233.91.239:8081/repository/bala-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>balamaven-snapshot Nexus Repository</name>
+	      <name>bala-snapshot Repository</name>
 	      <url>http://13.233.91.239:8081/repository/bala-snapshot/</url>
 	    </snapshotRepository>
 	    
