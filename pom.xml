@@ -97,7 +97,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>bala-Releases Repository</name>
+	      <name>bala-Release Repository</name>
 	      <url>http://15.206.128.98:8081/repository/bala-release/</url>
 	    </repository>
 	    
